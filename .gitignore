@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 node_modules/
 *.log
 dist/
@@ -6,4 +6,8 @@ dist/
 =======
 .log
 /node_modules
->>>>>>> c125f6b4575a85bb6ab4beb8790973c51633839f
+
+=======
+node_modules/
+.log
+
